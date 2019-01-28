@@ -2,8 +2,7 @@
   <img width="40%" src="https://i.imgur.com/Jo4XFit.jpg">
 </p>
 
-A lightweight showcase site for spotify playlists.
-
+#### A lightweight showcase site for spotify playlists.</br>
 Share your public playlists across both Spotify and Apple Music, and view them easily on all devices and browsers.
 
 # Features
@@ -11,7 +10,7 @@ Share your public playlists across both Spotify and Apple Music, and view them e
 * Public backlog of past Spotlight Selections
 * Spotify API usage, so that all public playlists are automatically displayed
 * Playlist Searching
-* Development documented at (benmitchinson.com)[https://benmitchinson.com]
+* Development documented at [benmitchinson.com](https://benmitchinson.com)
 
 # Would be cool if
 * Apple music supported, usage of an API to convert playlists? (Switch between spotify or apple music mode, user preference)
