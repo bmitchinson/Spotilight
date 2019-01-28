@@ -2,7 +2,7 @@
   <img width="40%" src="https://i.imgur.com/Jo4XFit.jpg">
 </p>
 
-## A Vanilla JS SPA to show off your spotify playlists.</br>
+## A SPA (Single Page Application) to show off your spotify playlists written in Vanilla JS.</br>
 Share your public playlists across both Spotify and Apple Music, and view them easily on all devices and browsers.
 
 # Features
