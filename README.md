@@ -3,7 +3,7 @@
 </p>
 
 ## A SPA (Single Page Application) to show off your spotify playlists written in Vanilla JS.</br>
-Share your public playlists across both Spotify and Apple Music, and view them easily on all devices and browsers.
+Share your public playlists and view them easily on all devices and browsers.
 
 # Features
 * "Spotlight Selection" for a pinned highlight of your library.
@@ -14,4 +14,6 @@ Share your public playlists across both Spotify and Apple Music, and view them e
 
 # Would be cool if
 * Apple music supported, usage of an API to convert playlists? (Switch between spotify or apple music mode, user preference)
+Reliant on this api: https://soundiiz.com/api :(
+
 * Hosted @ benmitchinson.com, along side the rest of the hexo blog
