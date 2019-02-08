@@ -2,7 +2,8 @@
   <img width="30%" src="https://i.imgur.com/Jo4XFit.jpg">
 </a> </p>
 
-## A "[Vanilla](http://vanilla-js.com/)" JS SPA to show off your spotify playlists ● [Demo](benmitchinson.com/Spotilight)</br>
+## A "[Vanilla](http://vanilla-js.com/)" JS SPA to show off your spotify playlists</br>
+## [Demo](benmitchinson.com/Spotilight)</br>
 Share your public playlists and view them easily across all devices and browsers.
 <p align="left"> <a href="http://vanilla-js.com/">
   <img width="10%" src="http://vanilla-js.com/assets/button.png">
