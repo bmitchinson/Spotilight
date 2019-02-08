@@ -19,4 +19,4 @@ Share your public playlists and view them easily across all devices and browsers
 * Apple music supported, usage of an API to convert playlists? (Switch between spotify or apple music mode, user preference)
 Reliant on this api: https://soundiiz.com/api :(
 
-* Hosted @ benmitchinson.com, along side the rest of my portfolio blog
+* Users could sign in with OAUth and follow me + playlists right from the site?
